@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Igniiis aka Maxence. I'm a french IT student who loves to code and learn new things.
-- 🌱 I’m currently learning node.js
+- 🌱 I’m currently learning react native
 - 💾 I love Data Sciences and Object-oriented programming languages
 
 
