@@ -15,11 +15,14 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Igniiis&layout=compact&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
 
+
+
 <!--- 
 - 🌱 I’m currently learning react native 
 - 📫 How to reach me ...
 
-here are some clean/fun ideas for my Github readme, they are commented though 
+
+here are some clean/fun ideas for your Github ReadMes 
 
 link 1 : stats of my profile/account
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Igniiis&show_icons=true&theme=gradiant)
