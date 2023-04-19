@@ -1,11 +1,10 @@
 # Hey there :wave:
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Igniiis/count.svg" />
 </p>
+
 
 
 
@@ -30,9 +29,7 @@ link 1 : stats of my profile/account
 link 2 : my most used languages on my github (I remove CSS and HTML from the ranking)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Igniiis&layout=compact&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
 
-link 3 : A picture of Android PLUS a profile-counter !!!
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
-
+link 3 : A profile-counter !!!
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
