@@ -1,6 +1,6 @@
-# Hey there :wave:
+# Hey ! :wave:
 
-<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif"/>
+<img src="https://github.com/Igniiis/Igniiis/blob/main/dino.gif"/>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Igniiis/count.svg" />
@@ -8,17 +8,20 @@
 
 
 
-
-- 👋 Hi, I’m Maxence aka Igniiis. I'm a french IT student who loves to code and learn new things.
+# About me
+- 👋 I’m Maxence aka Igniiis. I'm a french IT student who loves to code and learn new things.
 - 👀 I am starting a new web project soon!
 - 💾 I love Web developpement, Data Sciences and Object-oriented programming languages.
+- 🌱 I’m currently learning react native 
+
+# Goofy stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Igniiis&layout=compact&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
 
 
+# My socials
 
 <!--- 
-- 🌱 I’m currently learning react native 
 - 📫 How to reach me ...
 
 
