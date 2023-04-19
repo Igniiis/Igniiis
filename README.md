@@ -1,5 +1,6 @@
 # Hey there :wave:
 
+<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif"/>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Igniiis/count.svg" />
@@ -35,4 +36,7 @@ link 3 : A profile-counter !!!
   <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
 </p>
 
+
+link 4 : HERE IS FUCKIN DINO GIF !!!
+<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" />
 --->
