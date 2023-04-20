@@ -16,7 +16,7 @@
 - 💾 I love Web developpement, Data Sciences and Object-oriented programming languages.
 - 🌱 I’m currently learning react native 
 
-<!--- 
+
 # Goofy stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Igniiis&layout=compact&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
@@ -25,6 +25,7 @@
 # My socials
 
 
+<!--- 
 - 📫 How to reach me ...
 
 
