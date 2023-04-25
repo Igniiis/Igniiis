@@ -12,7 +12,7 @@
 
 # About me
 - 👋 I’m Maxence aka Igniiis. I'm a french IT student who loves to code and learn new things.
-- 👀 I am starting a new web project soon!
+- 👀 I am creating my new web app !
 - 💾 I love Web developpement, Data Sciences and Object-oriented programming languages.
 - 🌱 I’m currently learning react native 
 
