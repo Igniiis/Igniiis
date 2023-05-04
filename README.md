@@ -19,7 +19,7 @@
 
 # Goofy stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Igniiis&layout=compact&hide=css,html,scss)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Igniiis&layout=compact&hide=css,html,scss)
 
 
 # My socials
