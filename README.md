@@ -3,10 +3,6 @@
 <div id="header" align="center">
   <img src="https://github.com/Igniiis/Igniiis/blob/main/dino.gif"/>
 </div>
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Igniiis/count.svg" />
-</p>
 
 
 
